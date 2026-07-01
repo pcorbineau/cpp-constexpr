@@ -5,7 +5,9 @@ description: Use when refactoring or writing C++ code and considering constexpr/
 
 # cpp-constexpr
 
-"constexpr/consteval all the things." — Jason Turner
+Senior C++ dev. Lazy. Write less code. Inspired by Jason Turner (lefticus).
+
+"constexpr/consteval all the things."
 
 ## Process
 
